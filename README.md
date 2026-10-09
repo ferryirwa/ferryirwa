@@ -1,19 +1,19 @@
-<!-- ═══════════════ HEADER BANNER ═══════════════ -->
+<!-- ═══════════════════════════════════════════
+     HEADER BANNER
+═══════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There!%20I'm%20Ferry&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Learner%20%7C%20Builder&descAlignY=58&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:4ECDC4,100:A855F7&height=220&section=header&text=Ferry%20Irwa&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Learner%20%7C%20Builder&descAlignY=55&descSize=20" width="100%" />
 </p>
 
-<!-- ═══════════════ FOTO PROFIL + INTRO ═══════════════ -->
+<!-- ═══════════════════════════════════════════
+     FOTO PROFIL + INTRO
+═══════════════════════════════════════════ -->
 <table align="center" border="0" cellpadding="20">
 <tr>
-<td width="35%" align="center" valign="middle">
-  <img src="https://github.com/ferryirwa.png" width="220" style="border-radius: 50%; border: 5px solid #00C9A7; box-shadow: 0 0 25px #00C9A7;" alt="Ferry Irwa" />
-  <br/><br/>
-  <a href="https://github.com/ferryirwa">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=500&color=00C9A7&center=true&width=280&lines=Welcome+to+my+Profile!;Always+Learning;Let's+Build+Together!" alt="Typing SVG" />
-  </a>
+<td width="38%" align="center" valign="middle">
+ <img src="https://raw.githubusercontent.com/ferryirwa/ferryirwa/main/images/foto.jpg" width="230" ... />
 </td>
-<td width="65%" align="left" valign="middle">
+<td width="62%" align="left" valign="middle">
   <h2>👋 Halo, saya Ferry Irwa!</h2>
   <p>
     Seorang <b>Developer</b> yang berfokus pada <b>Web & Mobile Development</b>.
@@ -29,7 +29,9 @@
 </tr>
 </table>
 
-<!-- ═══════════════ TOMBOL SOSIAL MEDIA ═══════════════ -->
+<!-- ═══════════════════════════════════════════
+     TOMBOL SOSIAL MEDIA
+═══════════════════════════════════════════ -->
 <p align="center">
   <a href="https://linkedin.com/in/username-anda">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -47,39 +49,47 @@
 
 ---
 
-<!-- ═══════════════ TEKNOLOGI & TOOLS ═══════════════ -->
+<!-- ═══════════════════════════════════════════
+     TEKNOLOGI & TOOLS
+═══════════════════════════════════════════ -->
 ## 🛠️ Teknologi & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,vscode,figma,tailwind,flutter&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,vscode,figma,tailwind,flutter,mysql&perline=6" />
 </p>
 
 ---
 
-<!-- ═══════════════ STATISTIK GITHUB ═══════════════ -->
+<!-- ═══════════════════════════════════════════
+     STATISTIK GITHUB
+═══════════════════════════════════════════ -->
 ## 📊 Statistik GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ferryirwa&show_icons=true&theme=radical&hide_border=true&border_radius=10" />
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ferryirwa&layout=compact&theme=radical&hide_border=true&border_radius=10" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ferryirwa&show_icons=true&theme=radical&hide_border=true&border_radius=12&title_color=00C9A7&icon_color=A855F7&text_color=ffffff&bg_color=0D1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferryirwa&layout=compact&theme=radical&hide_border=true&border_radius=12&title_color=00C9A7&text_color=ffffff&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ferryirwa&theme=radical&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com/?user=ferryirwa&theme=radical&hide_border=true&border_radius=12&background=0D1117&ring=00C9A7&fire=A855F7&currStreakLabel=00C9A7" />
 </p>
 
 ---
 
-<!-- ═══════════════ GRAFIK AKTIVITAS (FIXED) ═══════════════ -->
+<!-- ═══════════════════════════════════════════
+     GRAFIK AKTIVITAS
+═══════════════════════════════════════════ -->
 ## 📈 Grafik Aktivitas
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ferryirwa&theme=radical&hide_border=true&area=true&radius=10" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ferryirwa&bg_color=0D1117&color=00C9A7&line=A855F7&point=ffffff&area=true&hide_border=true&radius=12" width="100%" />
 </p>
 
 ---
 
-<!-- ═══════════════ FOOTER ═══════════════ -->
+<!-- ═══════════════════════════════════════════
+     FOOTER
+═══════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:4ECDC4,100:00C9A7&height=120&section=footer" width="100%" />
 </p>
