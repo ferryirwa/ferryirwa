@@ -11,7 +11,7 @@
 <table align="center" border="0" cellpadding="20">
 <tr>
 <td width="38%" align="center" valign="middle">
- <img src="https://raw.githubusercontent.com/ferryirwa/ferryirwa/main/images/foto.jpg" width="230" ... />
+  <img src="https://github.com/ferryirwa.png" width="230" style="border-radius: 50%; border: 6px solid #00C9A7; box-shadow: 0 0 30px #00C9A7, 0 0 60px #A855F7;" alt="Ferry Irwa" />
 </td>
 <td width="62%" align="left" valign="middle">
   <h2>👋 Halo, saya Ferry Irwa!</h2>
@@ -79,17 +79,6 @@
 <!-- ═══════════════════════════════════════════
      GRAFIK AKTIVITAS
 ═══════════════════════════════════════════ -->
-## 📈 Grafik Aktivitas
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ferryirwa&bg_color=0D1117&color=00C9A7&line=A855F7&point=ffffff&area=true&hide_border=true&radius=12" width="100%" />
-</p>
-
----
-
-<!-- ═══════════════════════════════════════════
-     FOOTER
-═══════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:4ECDC4,100:00C9A7&height=120&section=footer" width="100%" />
 </p>
