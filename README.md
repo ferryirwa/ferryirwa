@@ -19,12 +19,12 @@
 </tr>
 </table>
 
-<!-- Social Links / Tombol Kontak -->
+<!-- Social Links -->
 <p align="center">
   <a href="https://linkedin.com/in/username-anda">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:email@anda.com">
+  <a href="mailto:feri56824@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://portofolio-anda.com">
@@ -42,8 +42,8 @@
 <img align="right" width="150" src="https://github.com/ferryirwa.png" style="border-radius: 10px;" />
 
 - 🔭 Saat ini saya sedang mengerjakan: **Aplikasi EWS Gumi Sasak**
-- 🌱 Sedang mempelajari: **PYTHON**
-- 💬 Tanyakan saya tentang: **HTML, CSS, JavaScript, flutter, dan lain sebagainya**
+- 🌱 Sedang mempelajari: **Python**
+- 💬 Tanyakan saya tentang: **HTML, CSS, JavaScript, Flutter**
 - 📫 Cara menghubungi saya: **feri56824@gmail.com**
 
 <br clear="right"/>
@@ -53,7 +53,7 @@
 ## 🛠️ Teknologi & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,vscode,figma,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,vscode,figma,tailwind,flutter" />
 </p>
 
 ---
@@ -61,7 +61,7 @@
 ## 📊 Statistik GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferryirwa&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferryirwa&show_icons=true&theme=radical&hide_border=true&border_radius=10" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferryirwa&layout=compact&theme=radical&hide_border=true&border_radius=10" />
 </p>
 
@@ -69,17 +69,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferryirwa&theme=radical&hide_border=true&border_radius=10" />
 </p>
 
-<!-- Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ferryirwa&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
 ---
 
 ## 📈 Grafik Aktivitas
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ferryirwa&theme=redical&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ferryirwa&theme=radical&hide_border=true&area=true" />
 </p>
 
 ---
